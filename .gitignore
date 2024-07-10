@@ -1,5 +1,4 @@
 access.log
 *.log
-
-*.log
+temp/
 
